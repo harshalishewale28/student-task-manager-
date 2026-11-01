@@ -3,7 +3,7 @@
 
 // ----------------------------------------
 // 1. GET HTML ELEMENTS
-// ----------------------------------------
+// ---------------------------------------------
 
 const taskList = document.getElementById("taskList");
 const emptyState = document.getElementById("emptyState");
